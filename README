@@ -1,0 +1,4 @@
+EagleCAD and Arduino files for a Circuit design/Robot building workshop at Xinchejian Hackerspace, Summer 2011.
+Template and final schematic/board files for the Roboracing shield (http://wiki.xinchejian.com/wiki/MotorShield), and Arduino code for basic two-wheel drive and path-finding for my Wall-E robot.
+
+Feel free to use the Gerber files to print some shields for your own purposes! (or you can order from http://xinchejian.com/tools-%E5%B7%A5%E5%85%B7/diy-motorssensors-shield-for-arduino/)
